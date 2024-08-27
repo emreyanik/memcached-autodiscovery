@@ -11,7 +11,7 @@ Drop-in replacement for [`memcached`](https://github.com/3rd-Eden/memcached) mod
 The constructor of the client takes two arguments `server locations` and `options`:
 
 ```js
-const Memcached = require('memcached-elasticache');
+const Memcached = require('memcached-with-autodiscovery');
 const memcached = new Memcached(Server locations, options);
 ```
 
