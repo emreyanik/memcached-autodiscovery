@@ -1,12 +1,12 @@
 {
-  "name": "memcached-with-autodiscovery",
+  "name": "memcached-autodiscovery",
   "version": "1.0.0",
   "description": "A memcached client with support auto-discovery",
   "author": "Emre Yanık <emreyanik89@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emreyanik/memcached-with-autodiscover.git"
+    "url": "git+https://github.com/emreyanik/memcached-autodiscovery.git"
   },
   "keywords": [
     "memcached",
@@ -25,7 +25,7 @@
     "memcached": "^2.2.2"
   },
   "bugs": {
-    "url": "https://github.com/emreyanik/memcached-with-autodiscover/issues"
+    "url": "https://github.com/emreyanik/memcached-autodiscovery/issues"
   },
-  "homepage": "https://github.com/emreyanik/memcached-with-autodiscover#readme"
+  "homepage": "https://github.com/emreyanik/memcached-autodiscovery#readme"
 }

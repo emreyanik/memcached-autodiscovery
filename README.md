@@ -1,4 +1,4 @@
-# memcached-elasticache
+# memcached-autodiscovery
 
 Drop-in replacement for [`memcached`](https://github.com/3rd-Eden/memcached) module (a fully featured Memcached client for Node.js) that adds support for Auto Discovery.
 
@@ -11,7 +11,7 @@ Drop-in replacement for [`memcached`](https://github.com/3rd-Eden/memcached) mod
 The constructor of the client takes two arguments `server locations` and `options`:
 
 ```js
-const Memcached = require('memcached-with-autodiscovery');
+const Memcached = require('memcached-autodiscovery');
 const memcached = new Memcached(Server locations, options);
 ```
 
