@@ -1,10 +1,10 @@
 # memcached-elasticache
 
-Drop-in replacement for [`memcached`](https://github.com/3rd-Eden/memcached) module (a fully featured Memcached client for Node.js) that adds support for [auto-discovery](http://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide/AutoDiscovery.html) of nodes in an AWS ElastiCache cluster running the Memcached engine. Works with all AWS supported cache engine versions.
+Drop-in replacement for [`memcached`](https://github.com/3rd-Eden/memcached) module (a fully featured Memcached client for Node.js) that adds support for Auto Discovery.
 
 ## Installation
 
-`npm install memcached-elasticache`
+`npm install memcached-autodiscovery`
 
 ## Setting up the client
 
